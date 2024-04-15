@@ -51,7 +51,7 @@ Stretch Features:
 
 ### 3. User Interaction
 
-**Features**
+Features
 
 - **Search for Specific Anime Titles**
   Users can use the search bar to search for specific anime titles; the app displays relevant results matching the search query.
