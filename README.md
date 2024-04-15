@@ -11,7 +11,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **suggest a list of animes to watch based on the the user preferences seleced by the user**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **suggests a list of animes to watch based on the the user preferences selected by the user**
 
 If we had to describe this milestone in three (3) emojis, they would be: **⚔🦾🗾**
 
