@@ -45,7 +45,7 @@ Stretch Features:
 
 ### 2. Chosen API: Jikan API
 
-- **Jikan API**
+- **Jikan API: `https://api.jikan.moe/v4`**
   -  **Anime Info**:Fetches detailed information about anime titles, used for the anime detail view feature.
   - **Anime Search**: Allows users to search for anime based on titles, supporting recommendation customization.
 
