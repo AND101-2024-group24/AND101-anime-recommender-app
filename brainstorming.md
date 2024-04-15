@@ -16,7 +16,7 @@ Each group member should record at least three new app ideas in the HackMD, incl
 
 ## Shivam's App Ideas - List
 1. Pokedex: Creating a real-life version of a Pokedex from Pokemon
-2. Anime Track: The Anime Tracker App is a one-stop solution to track your anime-watching needs 
+2. Anime Recommender: The Anime Tracker App is a one-stop solution to track your anime-watching needs 
 3. Trader app: provides real-time and historical stock trade info
 
 ## Top 3 New App Ideas
@@ -45,11 +45,11 @@ Each group member should record at least three new app ideas in the HackMD, incl
     - **Habit**: Users develop a habit of using the app as their go-to tool for trip planning and navigation. They frequently engage with the app to discover new destinations, plan itineraries, and share their travel experiences with others. The app becomes an indispensable companion for both frequent and occasional travelers.
     - **Scope**: The scope of the travel app encompasses various features and functionalities aimed at addressing the diverse needs of travelers throughout their journey. 
 
-3. Anime Tracker
-   - **Description**: The Anime Tracker App is a one-stop solution to track your anime-watching needs  
+3. Anime Recommender
+   - **Description**: The Anime Recommender App is a one-stop solution to track your anime-watching needs  
    - **Category:** Entertainment
    - **Mobile:** Available on Android platforms, optimized for smartphones.
-   - **Story:** Born from the passion of making anime discovery a personalized journey, the Anime Tracker App aims to connect every anime enthusiast with titles that resonate. Understanding the vastness of anime genres and the uniqueness of each viewer's preference, the app creates a bridge between endless choices and tailored suggestions, turning the quest of finding the next great anime into an exciting adventure.
+   - **Story:** Born from the passion of making anime discovery a personalized journey, the Anime Recommender App aims to connect every anime enthusiast with titles that resonate. Understanding the vastness of anime genres and the uniqueness of each viewer's preference, the app creates a bridge between endless choices and tailored suggestions, turning the quest of finding the next great anime into an exciting adventure.
    - **Market:** Targeted towards anime fans of all ages, the app is especially appealing to millennials and Gen Z who seek curated content. It's perfect for both seasoned aficionados looking to uncover hidden gems and newcomers eager to dive into the anime world. It aims to become an indispensable tool for anime discovery. 
    - **Habit:** The app encourages regular interaction through recommendations and a user-friendly interface that invites exploration. Offering features like tracking watched animes and creating watchlists integrates into the user’s daily routine, making anime discovery a habitual part of their entertainment consumption.
    - **Scope:** The scope of the Anime Recommend App encompasses features such as:
@@ -59,4 +59,4 @@ Each group member should record at least three new app ideas in the HackMD, incl
 
 
 ## Final App Choice
-1. Anime Tracker
+1. Anime Recommender
