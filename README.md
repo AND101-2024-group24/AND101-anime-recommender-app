@@ -1,6 +1,6 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Milestone 1 - **Anime Tracker App**
+# AND101 Milestone 1 - **Anime Recommender App**
 
 Submitted by:
 - **Chang Min Bark**
@@ -11,7 +11,7 @@ Time spent: **3** hours spent in total
 
 ## Summary
 
-This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **suggests a list of animes to watch based on the the user preferences selected by the user**
+This document provides an overview, project spec, and wireframes for our team's capstone project: An app that **The Anime Recommender App is a one-stop solution to track your anime-watching needs**
 
 If we had to describe this milestone in three (3) emojis, they would be: **⚔🦾🗾**
 
