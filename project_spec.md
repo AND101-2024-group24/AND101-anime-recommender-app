@@ -62,8 +62,8 @@ Features
 
 ## Wireframes
 <!-- Add a picture of your hand-sketched wireframes in this section -->
-<img src= ![IMG_2189](https://github.com/AND101-2024-group24/AND101-anime-recommender-app/assets/116847695/176b1e2a-4169-4294-851d-f12ac296a21c)
- width=600>
+![IMG_2189](https://github.com/AND101-2024-group24/AND101-anime-recommender-app/assets/116847695/4f9ae99e-ee25-48f7-99d1-b97ec00c47d2)
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
