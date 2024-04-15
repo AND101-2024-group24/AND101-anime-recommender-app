@@ -16,7 +16,7 @@ Each group member should record at least three new app ideas in the HackMD, incl
 
 ## Shivam's App Ideas - List
 1. Pokedex: Creating a real-life version of a Pokedex from Pokemon
-2. Anime Recommender: The Anime Tracker App is a one-stop solution to track your anime-watching needs 
+2. Anime Recommender: The Anime Recommender App is a one-stop solution to track your anime-watching needs 
 3. Trader app: provides real-time and historical stock trade info
 
 ## Top 3 New App Ideas
