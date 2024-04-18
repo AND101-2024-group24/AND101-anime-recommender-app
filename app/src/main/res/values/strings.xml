@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">AND101-anime-recommender-app</string>
+    <string name="app_name">AnimeX</string>
     <string name="back_button">Back Button</string>
     <string name="enter_anime_name">Enter anime name</string>
     <string name="search_button">Search Button</string>
     <string name="anime_schedule">New Updates</string>
-    <string name="animex">AnimeX</string>
+    <string name="anime_title">AnimeX</string>
     <string name="anime_search">Anime Search</string>
 </resources>
