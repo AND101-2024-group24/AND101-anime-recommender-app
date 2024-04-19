@@ -12,7 +12,6 @@ class AnimeAdapter (private val animeNameList: List<String>): RecyclerView.Adapt
         val animeName: TextView
 
         init {
-            // Find our RecyclerView item's TextView for future use
             animeName = view.findViewById(R.id.animeNameText)
         }
     }

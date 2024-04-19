@@ -8,7 +8,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.codepath.asynchttpclient.AsyncHttpClient
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler
 import com.example.and101_anime_recommender_app.databinding.ActivityMain2Binding
-import com.example.and101_anime_recommender_app.databinding.ActivityMainBinding
 import okhttp3.Headers
 
 class MainActivity2 : AppCompatActivity() {
@@ -27,7 +26,7 @@ class MainActivity2 : AppCompatActivity() {
 
     private fun retrieveAnimeList() {
         val client = AsyncHttpClient()
-        client["https://api.jikan.moe/v4/schedules", object : JsonHttpResponseHandler() {
+        client["https://api.jikan.moe/v4/top/anime", object : JsonHttpResponseHandler() {
             override fun onSuccess(
                 statusCode: Int,
                 headers: Headers,
