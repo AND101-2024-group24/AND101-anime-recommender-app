@@ -6,20 +6,15 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
-class AnimeAdapter (private val animeNameList: List<String>): RecyclerView.Adapter<AnimeAdapter.ViewHolder>() {
+class AnimeAdapter(private val animeNameList: List<String>) : RecyclerView.Adapter<AnimeAdapter.ViewHolder>() {
 
     class ViewHolder(view: View) : RecyclerView.ViewHolder(view) {
-        val animeName: TextView
-
-        init {
-            animeName = view.findViewById(R.id.animeNameText)
-        }
+        val animeName: TextView = view.findViewById(R.id.animeNameText)
+        val animeRank: TextView = view.findViewById(R.id.animeRank)
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val view = LayoutInflater.from(parent.context)
-            .inflate(R.layout.anime_list, parent, false)
-
+        val view = LayoutInflater.from(parent.context).inflate(R.layout.anime_list, parent, false)
         return ViewHolder(view)
     }
 
@@ -28,11 +23,8 @@ class AnimeAdapter (private val animeNameList: List<String>): RecyclerView.Adapt
     }
 
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
-        val animeNameString: String = animeNameList.get(position)
-        // Set item views based on your views and data model
-        val nameTextView = holder.animeName
-        nameTextView.setText(animeNameString)
-
-
+        val animeNameString: String = animeNameList[position]
+        holder.animeName.text = animeNameString
+        holder.animeRank.text = "Rank: ${position + 1}"
     }
 }

@@ -3,7 +3,10 @@
     <string name="back_button">Back Button</string>
     <string name="enter_anime_name">Enter anime name</string>
     <string name="search_button">Search Button</string>
-    <string name="anime_schedule">New Updates</string>
-    <string name="anime_title">AnimeX</string>
+    <string name="anime_Ranking">Top Ranked</string>
+    <string name="anime_title">Anime<font color="#0044FF">X</font></string>
     <string name="anime_search">Anime Search</string>
+    <string name="anime_image">Anime Image</string>
+    <string name="welcome">Welcome to AnimeX \n Your gateway to the World of Anime \n Satisfy all your anime needs at one place</string>
+    <string name="credit">Made By Shivam Mehta, Chang Min Bark, Alberto Doroteo-Reyes </string>
 </resources>

@@ -30,7 +30,7 @@ class MainActivity3 : AppCompatActivity() {
 
     private fun fetchAnimeData(query: String) {
         val client = AsyncHttpClient()
-        val url = "https://api.jikan.moe/v4/anime?q=$query&limit=25"
+        val url = "https://api.jikan.moe/v4/anime?q=$query&limit=20"
 
         client.get(url, object : JsonHttpResponseHandler() {
             override fun onSuccess(statusCode: Int, headers: Headers, json: JsonHttpResponseHandler.JSON) {
