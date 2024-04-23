@@ -21,6 +21,9 @@
             android:name=".MainActivity3"
             android:exported="false" />
         <activity
+            android:name=".ActivityMain4"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
