@@ -80,6 +80,7 @@ process, or what you learned in this unit!
 For Milestone 2, include **3 GIFs** of the build process here!
 
 <img src='https://imgur.com/kAkdm2M.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/Ks0gbej.gif' title='Video Demo' width='' alt='Video Demo' />
 <img src='https://imgur.com/BDTg78p.gif' title='Video Demo' width='' alt='Video Demo' />
 
 ## License
