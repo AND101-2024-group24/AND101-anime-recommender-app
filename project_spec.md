@@ -36,13 +36,13 @@ Required Features:
 - [X] A vast and regularly updated database of anime titles from various genres and eras. 
 - [X] List of Currently top ranked animes,
 - [X] Provide a detailed description of the animes for a deeper dive into the anime world.
-- User profiles where pickings can be fine-tuned and watched anime can be tracked.
+- [ ] User profiles where pickings can be fine-tuned and watched anime can be tracked.
   
 Stretch Features:
-- Personalized anime recommendations based on user preferences and viewing history.
+- [ ] Personalized anime recommendations based on user preferences and viewing history.
 - [X] Reviews and ratings from the community to guide users in their selection process.
 - [X] An intuitive, easy-to-navigate design optimized for mobile devices.
-- Notification alerts for new anime releases.
+- [ ] Notification alerts for new anime releases.
 
   
 ### 2. Chosen API: Jikan API
