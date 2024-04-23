@@ -4,16 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white"
     tools:context=".MainActivity2">
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="60dp"
-        android:gravity="center"
-        android:text="TOP ANIMES"
-        android:textSize="24sp"
+        android:text="TextView"
         app:layout_constraintBottom_toTopOf="@+id/anime_list"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
