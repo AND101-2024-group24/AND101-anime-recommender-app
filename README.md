@@ -43,7 +43,7 @@ Here's a video that demos all of the app's implemented features:
 
 <video src='' title='Video Demo' width='' alt='Video Demo' />
 
-VIDEO created with **Loom**
+VIDEO created with **your chosen video tool**
 
 ## Notes
 
