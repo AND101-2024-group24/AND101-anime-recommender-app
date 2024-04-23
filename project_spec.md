@@ -77,7 +77,7 @@ Features
 Here's a place for any other notes on the app, it's creation 
 process, or what you learned in this unit!  
 
-For Milestone 2, include **3 GIFs** of the build process here!
+For Milestone 2, include **2+ GIFs** of the build process here!
 
 <img src='https://imgur.com/kAkdm2M.gif' title='Video Demo' width='' alt='Video Demo' />
 <img src='https://imgur.com/Ks0gbej.gif' title='Video Demo' width='' alt='Video Demo' />
